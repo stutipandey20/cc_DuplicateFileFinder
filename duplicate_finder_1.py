@@ -22,6 +22,8 @@ class DuplicateFileFinder:
                 else:
                     self.size_map[file_size] = [file_path]
 
+        print(f"size map:\n", self.size_map)
+
     # Step 2:
     def find_potential_duplicates(self):
         # Identify potential duplicates based on file sizes
