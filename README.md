@@ -1,8 +1,9 @@
 # Duplicate File Finder (ccdupe.py)
 
 This project is from John Crickett's Coding Challenges
+https://codingchallenges.fyi/challenges/challenge-duplicate-files/
 
-📌 Description
+## 📌 Description
 
 This Python script scans a given directory recursively to detect and identify duplicate files.
 It uses a multi-step approach to efficiently find and confirm duplicate files:
@@ -15,7 +16,7 @@ Byte-by-Byte Comparison – Confirms whether files are truly identical.
 
 (Future Feature) Option to delete duplicates or ignore files below a certain size.
 
-✅ Features
+## ✅ Features
 
 Recursively scans a directory and subdirectories.
 
@@ -27,7 +28,7 @@ Performs a byte-by-byte comparison for 100% accuracy.
 
 Displays a list of confirmed duplicate files.
 
-🚀 Usage
+## 🚀 Usage
 
 Run the script from the terminal:
 
@@ -49,13 +50,13 @@ python3 ccdupe_1.py test_data
   - test_data/file1 == test_data/file21
   - test_data/file1 == test_data/subdir/duplicate_of_file1
 
-📋 Requirements
+## 📋 Requirements
 
 Python 3.8+
-
+Visual Studio Code/ IDE of choice
 Works on Windows, macOS, and Linux
 
-📅 Future Enhancements
+## 📅 Future Enhancements
 
 🛠 Step 5: Ignore files below a certain size.
 
@@ -63,11 +64,11 @@ Works on Windows, macOS, and Linux
 
 📄 Step 7: Save the duplicate file report to a log file.
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
-👤 Author
+## 👤 Author
 
 Stuti Pandey
 
