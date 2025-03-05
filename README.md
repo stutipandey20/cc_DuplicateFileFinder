@@ -1,6 +1,6 @@
-Duplicate File Finder (ccdupe.py)
+# Duplicate File Finder (ccdupe.py)
 
-This project is from John Crickett Coding Challenges
+This project is from John Crickett's Coding Challenges
 
 📌 Description
 
@@ -37,7 +37,7 @@ Example:
 
 python3 ccdupe_1.py test_data
 
-Sample Output:
+## Sample Output:
 
 📂 Scanning directory: test_data
 
